@@ -1,0 +1,14 @@
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\bin\Debug\net8.0\CİÖ.exe
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\bin\Debug\net8.0\CİÖ.deps.json
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\bin\Debug\net8.0\CİÖ.runtimeconfig.json
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\bin\Debug\net8.0\CİÖ.dll
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\bin\Debug\net8.0\CİÖ.pdb
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\obj\Debug\net8.0\CİÖ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\obj\Debug\net8.0\CİÖ.AssemblyInfoInputs.cache
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\obj\Debug\net8.0\CİÖ.AssemblyInfo.cs
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\obj\Debug\net8.0\CİÖ.csproj.CoreCompileInputs.cache
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\obj\Debug\net8.0\CİÖ.dll
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\obj\Debug\net8.0\refint\CİÖ.dll
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\obj\Debug\net8.0\CİÖ.pdb
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\obj\Debug\net8.0\CİÖ.genruntimeconfig.cache
+C:\Users\Nisanur\source\repos\MİRAS ALMA\CİÖ\obj\Debug\net8.0\ref\CİÖ.dll

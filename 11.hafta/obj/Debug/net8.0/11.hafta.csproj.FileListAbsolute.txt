@@ -1,0 +1,14 @@
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\bin\Debug\net8.0\11.hafta.exe
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\bin\Debug\net8.0\11.hafta.deps.json
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\bin\Debug\net8.0\11.hafta.runtimeconfig.json
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\bin\Debug\net8.0\11.hafta.dll
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\bin\Debug\net8.0\11.hafta.pdb
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\obj\Debug\net8.0\11.hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\obj\Debug\net8.0\11.hafta.AssemblyInfoInputs.cache
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\obj\Debug\net8.0\11.hafta.AssemblyInfo.cs
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\obj\Debug\net8.0\11.hafta.csproj.CoreCompileInputs.cache
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\obj\Debug\net8.0\11.hafta.dll
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\obj\Debug\net8.0\refint\11.hafta.dll
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\obj\Debug\net8.0\11.hafta.pdb
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\obj\Debug\net8.0\11.hafta.genruntimeconfig.cache
+C:\Users\Nisanur\source\repos\MİRAS ALMA\11.hafta\obj\Debug\net8.0\ref\11.hafta.dll
